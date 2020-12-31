@@ -34,7 +34,7 @@
   </nav>
 </header>
 <br>
-<body>
+<body style="margin-bottom: 10%">
   
   <div class="container">
     
@@ -48,9 +48,9 @@
     
   </div>
   
-  <footer class="footer py-3 bg-dark" style="margin-top: 10%">
+  <footer class="footer py-3 bg-dark fixed-bottom" style="margin-top: 10%;">
     <div class="container">
-      <span class="text-muted">Copyright©ㅤㅤㅤㅤㅤㅤ Grande Ville, L'entourage, Cool Connexion, Don Dada, NRM MMS LDO 667ㅤㅤㅤㅤS/O le FLEM et Philly Flingo </span>
+      <span class="text-muted">© 2020 Copyrightㅤㅤㅤㅤㅤㅤ Grande Ville, L'entourage, Cool Connexion, Don Dada, NRM MMS LDO 667ㅤㅤㅤㅤS/O le FLEM et Philly Flingo </span>
     </div>
   </footer>
   
